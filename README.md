@@ -4,7 +4,7 @@ This project was done as a part of CSCI-B-551 Elements of Artificial Intelligenc
 
 ## Command to run the program ##
 
-python3 arrange_pichus.py <name of map> <number of queens/pichus>
+python3 arrange_pichus.py [name of map] [number of queens/pichus]
 
 ## Abstractions Techniques that can be used ##
 
