@@ -2,6 +2,10 @@
 
 This project was done as a part of CSCI-B-551 Elements of Artificial Intelligence Coursework under Prof. Dr. David Crandall.
 
+## Problem ##
+
+The goal is to write an Artifical Intelligence prpgram to place pichus or queen on a board given one pichu on board so, each pichu cannot see each other given there are walls on board.
+
 ## Command to run the program ##
 
 python3 arrange_pichus.py [name of map] [number of queens/pichus]
